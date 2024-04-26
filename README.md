@@ -19,8 +19,3 @@ Simple Protein Tracker is a web application designed to help individuals keep tr
 - **Database**: SQLite
 - **PWA Features**: Manifest
 
-## Installation and Setup
-Describe the steps to install and set up your project locally. For example:
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/simple-protein-tracker.git
