@@ -17,7 +17,7 @@ Simple Protein Tracker is a web application designed to help individuals keep tr
 - **Frontend**: HTML, CSS (Bootstrap), JavaScript (Chart.js)
 - **Backend**: Python (Flask), Flask-WTF, SQLAlchemy
 - **Database**: SQLite
-- **PWA Features**: Service Worker, Manifest
+- **PWA Features**: Manifest
 
 ## Installation and Setup
 Describe the steps to install and set up your project locally. For example:
