@@ -1,0 +1,18 @@
+/* This will style all nav-links within a navbar-red class */
+.navbar-red .nav-link {
+    color: #ffffff !important; /* Replace with the color you want for your text */
+}
+
+/* For hover state */
+.navbar-red .nav-link:hover {
+    color: #8a6d6d !important; /* Replace with the color you want on hover */
+}
+
+.navbar-red {
+    background-color: #771919 !important; /* Change to your desired shade of red */
+}
+
+body {
+    background-color: #000000; /* Set background to black */
+    color: #ffffff; /* Set default text color to white */
+}
